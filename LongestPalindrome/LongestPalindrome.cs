@@ -32,4 +32,5 @@ namespace leetCode
 			}
 			return s.Substring(startPos, len);
 		}
+	}
 }
