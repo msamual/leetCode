@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace leetCode
+namespace leetCode.LongestPalindrome
 {
 	public partial class Solution
 	{
