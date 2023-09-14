@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RkKcTdMfYFQTZi1d6zCiaO3b6WS9x+d62K83OtvHaF/w1oCwBZqPIEMvbg8OQH73NN5pTyyfFr7VtyHcZqeWkg==",
+  "dgSpecHash": "2G+efaNYiwR15xxNDRk6vK6n3hd55+QFRPc8Ma6w7Aj9+SO/H+4Wgyio95Oh+MBCdAR/eLBMBd9ASgoO2ZV3uQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sergeyu\\Source\\Repos\\leetCode\\leetCode.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\sergeyu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\Projects\\leetCode\\leetCode.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
