@@ -22,8 +22,7 @@ namespace leetCode.Atoi
 				i++;
 			while (i < s.Length && (s[i] > 47 && s[i] < 58))
 			{
-				res = res * 10 + (s[i] - 48);
-				if (res < 0)
+				if (res != (((res = res * 10 + (s[i] - 48)) - (s[i] - 48)) / 10) || res < 0)
 					return neg ? -2147483648 : 2147483647;
 				i++;
 			}
